@@ -1,0 +1,7 @@
+datasets="/usr/local/lib/R/library/datasets"
+ggplot2="/usr/local/lib/R/site-library/ggplot2"
+grDevices="/usr/local/lib/R/library/grDevices"
+graphics="/usr/local/lib/R/library/graphics"
+methods="/usr/local/lib/R/library/methods"
+stats="/usr/local/lib/R/library/stats"
+utils="/usr/local/lib/R/library/utils"
