@@ -1,0 +1,21 @@
+34*23423
+5+7
+seq(0,10)
+? seq
+seq(20, 31)
+? sum()
+sum(1,2)
+sum(1,5)
+sum( seq(0,10) )
+seq(0,10)
+seq(0,10)
+seq(0,10)
+sum(seq(0,10))
+sum(seq(0,10000))
+sum(seq(0,10000))/10000
+seq(0,10)
+x <- seq(0,10)
+x
+plot(x)
+plot(x,x+1)
+plot(x,x+1)
