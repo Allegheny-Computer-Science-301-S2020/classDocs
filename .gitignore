@@ -136,5 +136,8 @@ local.properties
 ######################
 tags
 .DS_Store
-.dropbox.attr
+
 *~
+# Libre Office #
+# ####################
+ *.odp#
